@@ -16,7 +16,9 @@
 
 𝙴𝙽𝙶/𝚅𝙸𝙴𝚃
 
-𝚏𝚛𝚒𝚎𝚗𝚍𝚜 𝚠𝚑𝚘 𝚛𝚕𝚕𝚢 𝚌𝚕𝚘𝚜𝚎𝚛 𝚠 𝚖𝚎^^: [@enchantingknight](https://github.com/enchantingknight) [@lequocdat-dem](https://github.com/lequocdat-dem) [@hessesbird](https://github.com/hessesbird) [@LiuXiezhi](https://github.com/LiuXiezhi)
+𝚏𝚛𝚒𝚎𝚗𝚍𝚜 𝚠𝚑𝚘 𝚛𝚕𝚕𝚢 𝚌𝚕𝚘𝚜𝚎𝚛 𝚠 𝚖𝚎^^:
+
+[@enchantingknight](https://github.com/enchantingknight) [@lequocdat-dem](https://github.com/lequocdat-dem) [@hessesbird](https://github.com/hessesbird) [@LiuXiezhi](https://github.com/LiuXiezhi)
   
 </details>
 
