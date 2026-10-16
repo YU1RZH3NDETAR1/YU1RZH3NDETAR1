@@ -5,9 +5,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=18&duration=3500&pause=1000&color=639ccf&center=true&vCenter=true&width=600&lines=Do+you+belive+in+love+at+first+sight?;Do+you+belive+in+fate?;I+belive+in+good+things;Only+come+to+those+who+wait." alt="Typing SVG" />
   </a>
 
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31jixcmoaevyku3gtapj6uclav2e&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31jixcmoaevyku3gtapj6uclav2e&cover_image=true&theme=light&show_offline=true" />
+ <p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31jixcmoaevyku3gtapj6uclav2e&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jixcmoaevyku3gtapj6uclav2e&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&interchange=true&profanity=true&hide_remaster=true&bar_color=000000&bar_color_cover=true">
   </a>
 </p>
   
