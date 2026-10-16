@@ -4,6 +4,13 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=18&duration=3500&pause=1000&color=639ccf&center=true&vCenter=true&width=600&lines=Do+you+belive+in+love+at+first+sight?;Do+you+belive+in+fate?;I+belive+in+good+things;Only+come+to+those+who+wait." alt="Typing SVG" />
   </a>
+
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31jixcmoaevyku3gtapj6uclav2e&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31jixcmoaevyku3gtapj6uclav2e&cover_image=true&theme=light&show_offline=true" />
+  </a>
+</p>
+  
 </p>
 <div align="center">
 
