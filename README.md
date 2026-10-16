@@ -8,7 +8,7 @@
 <div align="center">
 
 <details>
-  <summary>꒰ᐢ. .ᐢ꒱</summary>
+  <summary><font color="#ff69b4">( ´ᗜ` )</font></summary>
 
 𝙸 𝚍𝚘𝚗𝚝 𝚝𝚊𝚕𝚔 𝚖𝚞𝚌𝚑 𝚠𝚑𝚎𝚗 𝚒𝚖 𝚓𝚞𝚜𝚝 𝚐𝚎𝚝𝚝𝚒𝚗𝚐 𝚝𝚘 𝚔𝚗𝚘𝚠 𝚢𝚘𝚞
 
