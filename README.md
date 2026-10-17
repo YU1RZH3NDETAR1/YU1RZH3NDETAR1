@@ -18,5 +18,5 @@
 <a href="https://yurizen.atabook.org/">ATA</a>
 <p align="center">𝙸 𝚍𝚘𝚗𝚝 𝚝𝚊𝚕𝚔 𝚖𝚞𝚌𝚑 𝚠𝚑𝚎𝚗 𝚒𝚖 𝚓𝚞𝚜𝚝 𝚐𝚎𝚝𝚝𝚒𝚗𝚐 𝚝𝚘 𝚔𝚗𝚘𝚠 𝚢𝚘𝚞</p>
 <p align="center">𝙴𝙽𝙶/𝚅𝙸𝙴𝚃</p>
-<p align="center">𝙸𝚖 𝚊𝚛𝚘𝚊𝚌𝚎 , 𝙳𝚘𝚗𝚝 𝚜𝚑𝚒𝚙 𝚖𝚎 𝚠 𝚘𝚝𝚑𝚎𝚛</p>
+<p align="center">𝙸𝚖 𝚊𝚛𝚘𝚊𝚌𝚎 (𝚗𝚘𝚝 𝚛𝚕𝚕𝚢) </p>
 <p align="center">𝚖𝚘𝚜𝚝𝚕𝚢 𝚋𝚞𝚜𝚢 , 𝚠𝟸𝚒 , 𝚜𝚘𝚖𝚎𝚝𝚒𝚖𝚎 𝚘𝚏𝚏𝚝𝚊𝚋.</p>
