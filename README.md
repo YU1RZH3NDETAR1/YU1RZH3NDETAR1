@@ -10,7 +10,9 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jixcmoaevyku3gtapj6uclav2e&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&interchange=false&profanity=true&hide_remaster=true&bar_color=000000&bar_color_cover=true">
   </a>
 </p>
-
+ <p align="center">
+<a href="https://yurizen.straw.page/">STRAWPAGE</a>
+<a href="https://yurizen.atabook.org/">ATA</a>
 <p align="center">𝙸 𝚍𝚘𝚗𝚝 𝚝𝚊𝚕𝚔 𝚖𝚞𝚌𝚑 𝚠𝚑𝚎𝚗 𝚒𝚖 𝚓𝚞𝚜𝚝 𝚐𝚎𝚝𝚝𝚒𝚗𝚐 𝚝𝚘 𝚔𝚗𝚘𝚠 𝚢𝚘𝚞</p>
 <p align="center">𝙴𝙽𝙶/𝚅𝙸𝙴𝚃</p>
 <p align="center">𝙸𝚖 𝚊𝚛𝚘𝚊𝚌𝚎 , 𝙳𝚘𝚗𝚝 𝚜𝚑𝚒𝚙 𝚖𝚎 𝚠 𝚘𝚝𝚑𝚎𝚛</p>
