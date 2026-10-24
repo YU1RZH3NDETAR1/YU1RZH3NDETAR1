@@ -17,7 +17,7 @@
 <a href="https://en.pronouns.page/@YUIRZH3NDERAT1">PRONOUNS</a>
 <a href="https://yurizen.atabook.org/">ATA</a>
 <a href="https://rentry.co/yu1rmeww">DNI</a>
-<a href="https://rentry.co/aboutmebtw">ABTME</a>
+<a href="https://rentry.co/byiyuir">ABTME</a>
 <p align="center">𝙸 𝚍𝚘𝚗𝚝 𝚝𝚊𝚕𝚔 𝚖𝚞𝚌𝚑 𝚠𝚑𝚎𝚗 𝚒𝚖 𝚓𝚞𝚜𝚝 𝚐𝚎𝚝𝚝𝚒𝚗𝚐 𝚝𝚘 𝚔𝚗𝚘𝚠 𝚢𝚘𝚞</p>
 <p align="center">𝙴𝙽𝙶/𝚅𝙸𝙴𝚃</p>
 <p align="center">𝙸𝚖 𝚊𝚛𝚘𝚊𝚌𝚎 (𝚗𝚘𝚝 𝚛𝚕𝚕𝚢) </p>
