@@ -2,7 +2,7 @@
 <p align="center"><img width="575" height="340" alt="Screenshot_179" src="https://github.com/user-attachments/assets/cf4e5cef-7b6a-40d6-b956-afd3a3cc47f7" /></p>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=18&duration=3500&pause=1000&color=639ccf&center=true&vCenter=true&width=600&lines=I+promise+ill+never+be+just+another+memory;Never+leaving+out+of+your+head;You+know+ill+see+you+again." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=18&duration=3500&pause=1000&color=639ccf&center=true&vCenter=true&width=600&lines=I+slowly+forget+your+face.;Falsity-;I+miss+you..." alt="Typing SVG" />
   </a>
 
 <p align="center"><a href="https://hits.sh/github.com/YUR1Z3N/"><img alt="Hits" src="https://hits.sh/github.com/YUR1Z3N.svg?label=I%20just%20get%20so%20nervy%5Eo%5E&color=5073a0&labelColor=0c1525"/></a>
