@@ -1,11 +1,13 @@
-𝙼𝚎 core:
-<p align="center"><img width="575" height="340" alt="Screenshot_179" src="https://github.com/user-attachments/assets/cf4e5cef-7b6a-40d6-b956-afd3a3cc47f7" /></p>
+𝚃𝚊𝚡𝚍𝚘𝚞 𝚌𝚘𝚛𝚎:
+<p align="center"><img width="635" height="455" alt="Screenshot_241" src="https://github.com/user-attachments/assets/2bdd0006-7ea7-4369-8c16-861bc2a5dcab" /></p>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=18&duration=3500&pause=1000&color=639ccf&center=true&vCenter=true&width=600&lines=I+slowly+forget+your+face.;Falsity-;I+miss+you..." alt="Typing SVG" />
-  </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=18&duration=3500&pause=1000&color=c6e1eb&center=true&vCenter=true&width=600&lines=I+think+they+will+kill+me,+Wem." alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=18&duration=3500&pause=1000&color=cdb8cf&center=true&vCenter=true&width=600&lines=Who?+Ill+kill+they+first+if+they+do+that" alt="Typing SVG" /></a>
 
-<p align="center"><a href="https://hits.sh/github.com/YUR1Z3N/"><img alt="Hits" src="https://hits.sh/github.com/YUR1Z3N.svg?label=I%20just%20get%20so%20nervy%5Eo%5E&color=5073a0&labelColor=0c1525"/></a>
+<a href="https://git.io/typing-svg">
+<p align="center"><a href="https://hits.sh/github.com/YUR1Z3N/"><img alt="Hits" src="https://hits.sh/github.com/YUR1Z3N.svg?label=Taxduo.&color=8fb7cd&labelColor=6d7980"/></a>
 
  <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31jixcmoaevyku3gtapj6uclav2e&redirect=true">
