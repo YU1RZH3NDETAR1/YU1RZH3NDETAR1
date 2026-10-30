@@ -1,4 +1,4 @@
-𝚃𝚊𝚡𝚍𝚘𝚞 𝚌𝚘𝚛𝚎:
+𝚃𝚊𝚡𝚍𝚞𝚘 𝚌𝚘𝚛𝚎:
 <p align="center"><img width="635" height="455" alt="Screenshot_241" src="https://github.com/user-attachments/assets/2bdd0006-7ea7-4369-8c16-861bc2a5dcab" /></p>
 <p align="center">
   <a href="https://git.io/typing-svg">
